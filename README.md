@@ -9,5 +9,7 @@ What things you need to install the software
 - various other packages like
   - numpy
   - pandas
+## Acknowledgement
+Special thanks to [Manav Sehgal](https://www.kaggle.com/startupsci) for providing in-depth analysis on data-preprocessing for datasets.
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
