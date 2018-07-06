@@ -1,5 +1,5 @@
 # Titanic Survivors
-This project is about predicting the chances of survival of people in the infamous ship 'Titanic' using Machine Learning.
+This project is about predicting the chances of survival of people in the infamous ship 'Titanic' using Machine Learning. Visit [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) to know more about this exciting project.
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### Prerequisites
