@@ -10,6 +10,8 @@ What things you need to install the software
   - numpy
   - pandas
   - sklearn
+  - keras
+  - matplotlib
 ## Acknowledgement
 Special thanks to [Manav Sehgal](https://www.kaggle.com/startupsci) for providing in-depth analysis on data-preprocessing for datasets.
 ## License
