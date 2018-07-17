@@ -14,5 +14,6 @@ What things you need to install the software
   - matplotlib
 ## Acknowledgement
 Special thanks to [Manav Sehgal](https://www.kaggle.com/startupsci) for providing in-depth analysis on data-preprocessing for datasets.
+Also, thank you [James Leslie](https://www.kaggle.com/jamesleslie) for providing valuable information about Artificial Neural Networks.
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
