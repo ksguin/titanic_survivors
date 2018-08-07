@@ -17,3 +17,4 @@ Special thanks to [Manav Sehgal](https://www.kaggle.com/startupsci) for providin
 Also, thank you [James Leslie](https://www.kaggle.com/jamesleslie) for providing valuable information about Artificial Neural Networks.
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](/LICENSE.md) file for details.
+###### Your small gesture can make someone's day, please star the repository if you liked it. :)
